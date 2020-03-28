@@ -1,3 +1,3 @@
 # codingprojects
 
-# projects around email marketing
+## projects around email marketing ##
